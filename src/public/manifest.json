@@ -1,0 +1,73 @@
+{
+  "name": "Panduan Umrah - Aplikasi Lengkap Ibadah Umrah",
+  "short_name": "Panduan Umrah",
+  "description": "Aplikasi panduan lengkap untuk ibadah umrah dengan fitur kompas kiblat, doa-doa, waktu shalat, dan checklist persiapan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "id",
+  "dir": "ltr",
+  "categories": ["lifestyle", "education", "navigation"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-1.png",
+      "sizes": "540x720",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Arah Kiblat",
+      "short_name": "Kiblat",
+      "description": "Buka kompas kiblat",
+      "url": "/?view=qibla",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Panduan Umrah",
+      "short_name": "Panduan",
+      "description": "Lihat panduan umrah",
+      "url": "/?view=guide",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Doa & Dzikir",
+      "short_name": "Doa",
+      "description": "Baca doa-doa umrah",
+      "url": "/?view=duas",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
