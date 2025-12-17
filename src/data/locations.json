@@ -1,0 +1,13 @@
+{
+  "mekkah": [
+    {"nama": "Masjidil Haram", "deskripsi": "Pusat ibadah utama dengan Ka'bah.", "lat": 21.4225, "lng": 39.8262},
+    {"nama": "Bukit Safa & Marwah", "deskripsi": "Lokasi sa'i 7 kali bolak-balik.", "lat": 21.4189, "lng": 39.8240},
+    {"nama": "Jabal Rahmah (Arafah)", "deskripsi": "Puncak haji dengan wukuf.", "lat": 21.3626, "lng": 40.2814},
+    {"nama": "Gua Hira (Jabal Nur)", "deskripsi": "Tempat wahyu pertama.", "lat": 21.4414, "lng": 39.8058}
+  ],
+  "madinah": [
+    {"nama": "Masjid Nabawi", "deskripsi": "Masjid Nabi dengan Raudhah.", "lat": 24.5244, "lng": 39.6092},
+    {"nama": "Masjid Quba", "deskripsi": "Masjid pertama Islam.", "lat": 24.5059, "lng": 39.6200},
+    {"nama": "Jabal Uhud", "deskripsi": "Lokasi Perang Uhud.", "lat": 24.5381, "lng": 39.6250}
+  ]
+}
